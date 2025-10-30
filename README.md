@@ -5,5 +5,4 @@
 <h1>HOW DO I RUN MY GAMES?</h1>
 <p>paste it into the html viewer, if its too big then ctrl a and hope it dosent crash after you paste it</p>
 <H1>HOW TO GO INTO FULL SCREEN?</H1>
-<p>paste this in begining, "<button onclick="document.documentElement.requestFullscreen()" style="position:fixed;top:5px;right:5px;z-index:999999;font-size:10px;padding:2px">⛶</button>
-"</p>
+<p>paste fullscreen.html in the begining</p>
